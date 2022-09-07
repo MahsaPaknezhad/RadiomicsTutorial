@@ -1,0 +1,394 @@
+Image,Mask,Label
+../data/trunk12/alder/1.JPG,mask.JPG,0
+../data/trunk12/alder/10.JPG,mask.JPG,0
+../data/trunk12/alder/11.JPG,mask.JPG,0
+../data/trunk12/alder/12.JPG,mask.JPG,0
+../data/trunk12/alder/13.JPG,mask.JPG,0
+../data/trunk12/alder/14.JPG,mask.JPG,0
+../data/trunk12/alder/15.JPG,mask.JPG,0
+../data/trunk12/alder/16.JPG,mask.JPG,0
+../data/trunk12/alder/17.JPG,mask.JPG,0
+../data/trunk12/alder/18.JPG,mask.JPG,0
+../data/trunk12/alder/19.JPG,mask.JPG,0
+../data/trunk12/alder/2.JPG,mask.JPG,0
+../data/trunk12/alder/20.JPG,mask.JPG,0
+../data/trunk12/alder/21.JPG,mask.JPG,0
+../data/trunk12/alder/22.JPG,mask.JPG,0
+../data/trunk12/alder/23.JPG,mask.JPG,0
+../data/trunk12/alder/24.JPG,mask.JPG,0
+../data/trunk12/alder/25.JPG,mask.JPG,0
+../data/trunk12/alder/26.JPG,mask.JPG,0
+../data/trunk12/alder/27.JPG,mask.JPG,0
+../data/trunk12/alder/28.JPG,mask.JPG,0
+../data/trunk12/alder/29.JPG,mask.JPG,0
+../data/trunk12/alder/3.JPG,mask.JPG,0
+../data/trunk12/alder/30.JPG,mask.JPG,0
+../data/trunk12/alder/31.JPG,mask.JPG,0
+../data/trunk12/alder/32.JPG,mask.JPG,0
+../data/trunk12/alder/33.JPG,mask.JPG,0
+../data/trunk12/alder/34.JPG,mask.JPG,0
+../data/trunk12/alder/4.JPG,mask.JPG,0
+../data/trunk12/alder/5.JPG,mask.JPG,0
+../data/trunk12/alder/6.JPG,mask.JPG,0
+../data/trunk12/alder/7.JPG,mask.JPG,0
+../data/trunk12/alder/8.JPG,mask.JPG,0
+../data/trunk12/alder/9.JPG,mask.JPG,0
+../data/trunk12/beech/1.JPG,mask.JPG,1
+../data/trunk12/beech/10.JPG,mask.JPG,1
+../data/trunk12/beech/11.JPG,mask.JPG,1
+../data/trunk12/beech/12.JPG,mask.JPG,1
+../data/trunk12/beech/13.JPG,mask.JPG,1
+../data/trunk12/beech/14.JPG,mask.JPG,1
+../data/trunk12/beech/15.JPG,mask.JPG,1
+../data/trunk12/beech/16.JPG,mask.JPG,1
+../data/trunk12/beech/17.JPG,mask.JPG,1
+../data/trunk12/beech/18.JPG,mask.JPG,1
+../data/trunk12/beech/19.JPG,mask.JPG,1
+../data/trunk12/beech/2.JPG,mask.JPG,1
+../data/trunk12/beech/20.JPG,mask.JPG,1
+../data/trunk12/beech/21.JPG,mask.JPG,1
+../data/trunk12/beech/22.JPG,mask.JPG,1
+../data/trunk12/beech/23.JPG,mask.JPG,1
+../data/trunk12/beech/24.JPG,mask.JPG,1
+../data/trunk12/beech/25.JPG,mask.JPG,1
+../data/trunk12/beech/26.JPG,mask.JPG,1
+../data/trunk12/beech/27.JPG,mask.JPG,1
+../data/trunk12/beech/28.JPG,mask.JPG,1
+../data/trunk12/beech/29.JPG,mask.JPG,1
+../data/trunk12/beech/3.JPG,mask.JPG,1
+../data/trunk12/beech/30.JPG,mask.JPG,1
+../data/trunk12/beech/4.JPG,mask.JPG,1
+../data/trunk12/beech/5.JPG,mask.JPG,1
+../data/trunk12/beech/6.JPG,mask.JPG,1
+../data/trunk12/beech/7.JPG,mask.JPG,1
+../data/trunk12/beech/8.JPG,mask.JPG,1
+../data/trunk12/beech/9.JPG,mask.JPG,1
+../data/trunk12/birch/1.JPG,mask.JPG,2
+../data/trunk12/birch/10.JPG,mask.JPG,2
+../data/trunk12/birch/11.JPG,mask.JPG,2
+../data/trunk12/birch/12.JPG,mask.JPG,2
+../data/trunk12/birch/13.JPG,mask.JPG,2
+../data/trunk12/birch/14.JPG,mask.JPG,2
+../data/trunk12/birch/15.JPG,mask.JPG,2
+../data/trunk12/birch/16.JPG,mask.JPG,2
+../data/trunk12/birch/17.JPG,mask.JPG,2
+../data/trunk12/birch/18.JPG,mask.JPG,2
+../data/trunk12/birch/19.JPG,mask.JPG,2
+../data/trunk12/birch/2.JPG,mask.JPG,2
+../data/trunk12/birch/20.JPG,mask.JPG,2
+../data/trunk12/birch/21.JPG,mask.JPG,2
+../data/trunk12/birch/22.JPG,mask.JPG,2
+../data/trunk12/birch/23.JPG,mask.JPG,2
+../data/trunk12/birch/24.JPG,mask.JPG,2
+../data/trunk12/birch/25.JPG,mask.JPG,2
+../data/trunk12/birch/26.JPG,mask.JPG,2
+../data/trunk12/birch/27.JPG,mask.JPG,2
+../data/trunk12/birch/28.JPG,mask.JPG,2
+../data/trunk12/birch/29.JPG,mask.JPG,2
+../data/trunk12/birch/3.JPG,mask.JPG,2
+../data/trunk12/birch/30.JPG,mask.JPG,2
+../data/trunk12/birch/31.JPG,mask.JPG,2
+../data/trunk12/birch/32.JPG,mask.JPG,2
+../data/trunk12/birch/33.JPG,mask.JPG,2
+../data/trunk12/birch/34.JPG,mask.JPG,2
+../data/trunk12/birch/35.JPG,mask.JPG,2
+../data/trunk12/birch/36.JPG,mask.JPG,2
+../data/trunk12/birch/37.JPG,mask.JPG,2
+../data/trunk12/birch/4.JPG,mask.JPG,2
+../data/trunk12/birch/5.JPG,mask.JPG,2
+../data/trunk12/birch/6.JPG,mask.JPG,2
+../data/trunk12/birch/7.JPG,mask.JPG,2
+../data/trunk12/birch/8.JPG,mask.JPG,2
+../data/trunk12/birch/9.JPG,mask.JPG,2
+../data/trunk12/chestnut/1.JPG,mask.JPG,3
+../data/trunk12/chestnut/10.JPG,mask.JPG,3
+../data/trunk12/chestnut/11.JPG,mask.JPG,3
+../data/trunk12/chestnut/12.JPG,mask.JPG,3
+../data/trunk12/chestnut/13.JPG,mask.JPG,3
+../data/trunk12/chestnut/14.JPG,mask.JPG,3
+../data/trunk12/chestnut/15.JPG,mask.JPG,3
+../data/trunk12/chestnut/16.JPG,mask.JPG,3
+../data/trunk12/chestnut/17.JPG,mask.JPG,3
+../data/trunk12/chestnut/18.JPG,mask.JPG,3
+../data/trunk12/chestnut/19.JPG,mask.JPG,3
+../data/trunk12/chestnut/2.JPG,mask.JPG,3
+../data/trunk12/chestnut/20.JPG,mask.JPG,3
+../data/trunk12/chestnut/21.JPG,mask.JPG,3
+../data/trunk12/chestnut/22.JPG,mask.JPG,3
+../data/trunk12/chestnut/23.JPG,mask.JPG,3
+../data/trunk12/chestnut/24.JPG,mask.JPG,3
+../data/trunk12/chestnut/25.JPG,mask.JPG,3
+../data/trunk12/chestnut/26.JPG,mask.JPG,3
+../data/trunk12/chestnut/27.JPG,mask.JPG,3
+../data/trunk12/chestnut/28.JPG,mask.JPG,3
+../data/trunk12/chestnut/29.JPG,mask.JPG,3
+../data/trunk12/chestnut/3.JPG,mask.JPG,3
+../data/trunk12/chestnut/30.JPG,mask.JPG,3
+../data/trunk12/chestnut/31.JPG,mask.JPG,3
+../data/trunk12/chestnut/32.JPG,mask.JPG,3
+../data/trunk12/chestnut/4.JPG,mask.JPG,3
+../data/trunk12/chestnut/5.JPG,mask.JPG,3
+../data/trunk12/chestnut/6.JPG,mask.JPG,3
+../data/trunk12/chestnut/7.JPG,mask.JPG,3
+../data/trunk12/chestnut/8.JPG,mask.JPG,3
+../data/trunk12/chestnut/9.JPG,mask.JPG,3
+../data/trunk12/ginkgo biloba/1.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/10.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/11.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/12.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/13.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/14.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/15.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/16.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/17.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/18.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/19.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/2.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/20.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/21.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/22.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/23.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/24.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/25.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/26.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/27.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/28.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/29.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/3.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/30.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/4.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/5.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/6.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/7.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/8.JPG,mask.JPG,4
+../data/trunk12/ginkgo biloba/9.JPG,mask.JPG,4
+../data/trunk12/hornbeam/1.JPG,mask.JPG,5
+../data/trunk12/hornbeam/10.JPG,mask.JPG,5
+../data/trunk12/hornbeam/11.JPG,mask.JPG,5
+../data/trunk12/hornbeam/12.JPG,mask.JPG,5
+../data/trunk12/hornbeam/13.JPG,mask.JPG,5
+../data/trunk12/hornbeam/14.JPG,mask.JPG,5
+../data/trunk12/hornbeam/15.JPG,mask.JPG,5
+../data/trunk12/hornbeam/16.JPG,mask.JPG,5
+../data/trunk12/hornbeam/17.JPG,mask.JPG,5
+../data/trunk12/hornbeam/18.JPG,mask.JPG,5
+../data/trunk12/hornbeam/19.JPG,mask.JPG,5
+../data/trunk12/hornbeam/2.JPG,mask.JPG,5
+../data/trunk12/hornbeam/20.JPG,mask.JPG,5
+../data/trunk12/hornbeam/21.JPG,mask.JPG,5
+../data/trunk12/hornbeam/22.JPG,mask.JPG,5
+../data/trunk12/hornbeam/23.JPG,mask.JPG,5
+../data/trunk12/hornbeam/24.JPG,mask.JPG,5
+../data/trunk12/hornbeam/25.JPG,mask.JPG,5
+../data/trunk12/hornbeam/26.JPG,mask.JPG,5
+../data/trunk12/hornbeam/27.JPG,mask.JPG,5
+../data/trunk12/hornbeam/28.JPG,mask.JPG,5
+../data/trunk12/hornbeam/29.JPG,mask.JPG,5
+../data/trunk12/hornbeam/3.JPG,mask.JPG,5
+../data/trunk12/hornbeam/30.JPG,mask.JPG,5
+../data/trunk12/hornbeam/4.JPG,mask.JPG,5
+../data/trunk12/hornbeam/5.JPG,mask.JPG,5
+../data/trunk12/hornbeam/6.JPG,mask.JPG,5
+../data/trunk12/hornbeam/7.JPG,mask.JPG,5
+../data/trunk12/hornbeam/8.JPG,mask.JPG,5
+../data/trunk12/hornbeam/9.JPG,mask.JPG,5
+../data/trunk12/horse chestnut/1.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/10.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/11.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/12.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/13.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/14.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/15.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/16.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/17.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/18.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/19.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/2.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/20.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/21.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/22.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/23.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/24.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/25.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/26.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/27.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/28.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/29.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/3.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/30.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/31.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/32.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/33.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/4.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/5.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/6.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/7.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/8.JPG,mask.JPG,6
+../data/trunk12/horse chestnut/9.JPG,mask.JPG,6
+../data/trunk12/linden/1.JPG,mask.JPG,7
+../data/trunk12/linden/10.JPG,mask.JPG,7
+../data/trunk12/linden/11.JPG,mask.JPG,7
+../data/trunk12/linden/12.JPG,mask.JPG,7
+../data/trunk12/linden/13.JPG,mask.JPG,7
+../data/trunk12/linden/14.JPG,mask.JPG,7
+../data/trunk12/linden/15.JPG,mask.JPG,7
+../data/trunk12/linden/16.JPG,mask.JPG,7
+../data/trunk12/linden/17.JPG,mask.JPG,7
+../data/trunk12/linden/18.JPG,mask.JPG,7
+../data/trunk12/linden/19.JPG,mask.JPG,7
+../data/trunk12/linden/2.JPG,mask.JPG,7
+../data/trunk12/linden/20.JPG,mask.JPG,7
+../data/trunk12/linden/21.JPG,mask.JPG,7
+../data/trunk12/linden/22.JPG,mask.JPG,7
+../data/trunk12/linden/23.JPG,mask.JPG,7
+../data/trunk12/linden/24.JPG,mask.JPG,7
+../data/trunk12/linden/25.JPG,mask.JPG,7
+../data/trunk12/linden/26.JPG,mask.JPG,7
+../data/trunk12/linden/27.JPG,mask.JPG,7
+../data/trunk12/linden/28.JPG,mask.JPG,7
+../data/trunk12/linden/29.JPG,mask.JPG,7
+../data/trunk12/linden/3.JPG,mask.JPG,7
+../data/trunk12/linden/30.JPG,mask.JPG,7
+../data/trunk12/linden/4.JPG,mask.JPG,7
+../data/trunk12/linden/5.JPG,mask.JPG,7
+../data/trunk12/linden/6.JPG,mask.JPG,7
+../data/trunk12/linden/7.JPG,mask.JPG,7
+../data/trunk12/linden/8.JPG,mask.JPG,7
+../data/trunk12/linden/9.JPG,mask.JPG,7
+../data/trunk12/oak/1.JPG,mask.JPG,8
+../data/trunk12/oak/10.JPG,mask.JPG,8
+../data/trunk12/oak/11.JPG,mask.JPG,8
+../data/trunk12/oak/12.JPG,mask.JPG,8
+../data/trunk12/oak/13.JPG,mask.JPG,8
+../data/trunk12/oak/14.JPG,mask.JPG,8
+../data/trunk12/oak/15.JPG,mask.JPG,8
+../data/trunk12/oak/16.JPG,mask.JPG,8
+../data/trunk12/oak/17.JPG,mask.JPG,8
+../data/trunk12/oak/18.JPG,mask.JPG,8
+../data/trunk12/oak/19.JPG,mask.JPG,8
+../data/trunk12/oak/2.JPG,mask.JPG,8
+../data/trunk12/oak/20.JPG,mask.JPG,8
+../data/trunk12/oak/21.JPG,mask.JPG,8
+../data/trunk12/oak/22.JPG,mask.JPG,8
+../data/trunk12/oak/23.JPG,mask.JPG,8
+../data/trunk12/oak/24.JPG,mask.JPG,8
+../data/trunk12/oak/25.JPG,mask.JPG,8
+../data/trunk12/oak/26.JPG,mask.JPG,8
+../data/trunk12/oak/27.JPG,mask.JPG,8
+../data/trunk12/oak/28.JPG,mask.JPG,8
+../data/trunk12/oak/29.JPG,mask.JPG,8
+../data/trunk12/oak/3.JPG,mask.JPG,8
+../data/trunk12/oak/30.JPG,mask.JPG,8
+../data/trunk12/oak/4.JPG,mask.JPG,8
+../data/trunk12/oak/5.JPG,mask.JPG,8
+../data/trunk12/oak/6.JPG,mask.JPG,8
+../data/trunk12/oak/7.JPG,mask.JPG,8
+../data/trunk12/oak/8.JPG,mask.JPG,8
+../data/trunk12/oak/9.JPG,mask.JPG,8
+../data/trunk12/oriental plane/1.JPG,mask.JPG,9
+../data/trunk12/oriental plane/10.JPG,mask.JPG,9
+../data/trunk12/oriental plane/11.JPG,mask.JPG,9
+../data/trunk12/oriental plane/12.JPG,mask.JPG,9
+../data/trunk12/oriental plane/13.JPG,mask.JPG,9
+../data/trunk12/oriental plane/14.JPG,mask.JPG,9
+../data/trunk12/oriental plane/15.JPG,mask.JPG,9
+../data/trunk12/oriental plane/16.JPG,mask.JPG,9
+../data/trunk12/oriental plane/17.JPG,mask.JPG,9
+../data/trunk12/oriental plane/18.JPG,mask.JPG,9
+../data/trunk12/oriental plane/19.JPG,mask.JPG,9
+../data/trunk12/oriental plane/2.JPG,mask.JPG,9
+../data/trunk12/oriental plane/20.JPG,mask.JPG,9
+../data/trunk12/oriental plane/21.JPG,mask.JPG,9
+../data/trunk12/oriental plane/22.JPG,mask.JPG,9
+../data/trunk12/oriental plane/23.JPG,mask.JPG,9
+../data/trunk12/oriental plane/24.JPG,mask.JPG,9
+../data/trunk12/oriental plane/25.JPG,mask.JPG,9
+../data/trunk12/oriental plane/26.JPG,mask.JPG,9
+../data/trunk12/oriental plane/27.JPG,mask.JPG,9
+../data/trunk12/oriental plane/28.JPG,mask.JPG,9
+../data/trunk12/oriental plane/29.JPG,mask.JPG,9
+../data/trunk12/oriental plane/3.JPG,mask.JPG,9
+../data/trunk12/oriental plane/30.JPG,mask.JPG,9
+../data/trunk12/oriental plane/31.JPG,mask.JPG,9
+../data/trunk12/oriental plane/32.JPG,mask.JPG,9
+../data/trunk12/oriental plane/4.JPG,mask.JPG,9
+../data/trunk12/oriental plane/5.JPG,mask.JPG,9
+../data/trunk12/oriental plane/6.JPG,mask.JPG,9
+../data/trunk12/oriental plane/7.JPG,mask.JPG,9
+../data/trunk12/oriental plane/8.JPG,mask.JPG,9
+../data/trunk12/oriental plane/9.JPG,mask.JPG,9
+../data/trunk12/pine/1.JPG,mask.JPG,10
+../data/trunk12/pine/10.JPG,mask.JPG,10
+../data/trunk12/pine/11.JPG,mask.JPG,10
+../data/trunk12/pine/12.JPG,mask.JPG,10
+../data/trunk12/pine/13.JPG,mask.JPG,10
+../data/trunk12/pine/14.JPG,mask.JPG,10
+../data/trunk12/pine/15.JPG,mask.JPG,10
+../data/trunk12/pine/16.JPG,mask.JPG,10
+../data/trunk12/pine/17.JPG,mask.JPG,10
+../data/trunk12/pine/18.JPG,mask.JPG,10
+../data/trunk12/pine/19.JPG,mask.JPG,10
+../data/trunk12/pine/2.JPG,mask.JPG,10
+../data/trunk12/pine/20.JPG,mask.JPG,10
+../data/trunk12/pine/21.JPG,mask.JPG,10
+../data/trunk12/pine/22.JPG,mask.JPG,10
+../data/trunk12/pine/23.JPG,mask.JPG,10
+../data/trunk12/pine/24.JPG,mask.JPG,10
+../data/trunk12/pine/25.JPG,mask.JPG,10
+../data/trunk12/pine/26.JPG,mask.JPG,10
+../data/trunk12/pine/27.JPG,mask.JPG,10
+../data/trunk12/pine/28.JPG,mask.JPG,10
+../data/trunk12/pine/29.JPG,mask.JPG,10
+../data/trunk12/pine/3.JPG,mask.JPG,10
+../data/trunk12/pine/30.JPG,mask.JPG,10
+../data/trunk12/pine/4.JPG,mask.JPG,10
+../data/trunk12/pine/5.JPG,mask.JPG,10
+../data/trunk12/pine/6.JPG,mask.JPG,10
+../data/trunk12/pine/7.JPG,mask.JPG,10
+../data/trunk12/pine/8.JPG,mask.JPG,10
+../data/trunk12/pine/9.JPG,mask.JPG,10
+../data/trunk12/spruce/1.JPG,mask.JPG,11
+../data/trunk12/spruce/10.JPG,mask.JPG,11
+../data/trunk12/spruce/11.JPG,mask.JPG,11
+../data/trunk12/spruce/12.JPG,mask.JPG,11
+../data/trunk12/spruce/13.JPG,mask.JPG,11
+../data/trunk12/spruce/14.JPG,mask.JPG,11
+../data/trunk12/spruce/15.JPG,mask.JPG,11
+../data/trunk12/spruce/16.JPG,mask.JPG,11
+../data/trunk12/spruce/17.JPG,mask.JPG,11
+../data/trunk12/spruce/18.JPG,mask.JPG,11
+../data/trunk12/spruce/19.JPG,mask.JPG,11
+../data/trunk12/spruce/2.JPG,mask.JPG,11
+../data/trunk12/spruce/20.JPG,mask.JPG,11
+../data/trunk12/spruce/21.JPG,mask.JPG,11
+../data/trunk12/spruce/22.JPG,mask.JPG,11
+../data/trunk12/spruce/23.JPG,mask.JPG,11
+../data/trunk12/spruce/24.JPG,mask.JPG,11
+../data/trunk12/spruce/25.JPG,mask.JPG,11
+../data/trunk12/spruce/26.JPG,mask.JPG,11
+../data/trunk12/spruce/27.JPG,mask.JPG,11
+../data/trunk12/spruce/28.JPG,mask.JPG,11
+../data/trunk12/spruce/29.JPG,mask.JPG,11
+../data/trunk12/spruce/3.JPG,mask.JPG,11
+../data/trunk12/spruce/30.JPG,mask.JPG,11
+../data/trunk12/spruce/31.JPG,mask.JPG,11
+../data/trunk12/spruce/32.JPG,mask.JPG,11
+../data/trunk12/spruce/33.JPG,mask.JPG,11
+../data/trunk12/spruce/34.JPG,mask.JPG,11
+../data/trunk12/spruce/35.JPG,mask.JPG,11
+../data/trunk12/spruce/36.JPG,mask.JPG,11
+../data/trunk12/spruce/37.JPG,mask.JPG,11
+../data/trunk12/spruce/38.JPG,mask.JPG,11
+../data/trunk12/spruce/39.JPG,mask.JPG,11
+../data/trunk12/spruce/4.JPG,mask.JPG,11
+../data/trunk12/spruce/40.JPG,mask.JPG,11
+../data/trunk12/spruce/41.JPG,mask.JPG,11
+../data/trunk12/spruce/42.JPG,mask.JPG,11
+../data/trunk12/spruce/43.JPG,mask.JPG,11
+../data/trunk12/spruce/44.JPG,mask.JPG,11
+../data/trunk12/spruce/45.JPG,mask.JPG,11
+../data/trunk12/spruce/5.JPG,mask.JPG,11
+../data/trunk12/spruce/6.JPG,mask.JPG,11
+../data/trunk12/spruce/7.JPG,mask.JPG,11
+../data/trunk12/spruce/8.JPG,mask.JPG,11
+../data/trunk12/spruce/9.JPG,mask.JPG,11

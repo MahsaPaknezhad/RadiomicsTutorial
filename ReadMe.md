@@ -7,6 +7,11 @@ For this project, we use the publicly available dataset of tree bark images [her
 
 We have compared our results with those of a published paper [1] on this dataset which uses a different texture descriptor for classification of tree barks. 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 # Reference 
 
 [1] Boudra, Safia, Itheri Yahiaoui, and Ali Behloul. "Bark identification using improved statistical radial binary patterns." 2018 International conference on content-based multimedia indexing (CBMI). IEEE, 2018.

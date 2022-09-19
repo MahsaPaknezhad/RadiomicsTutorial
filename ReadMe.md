@@ -3,11 +3,9 @@ Since the term radiomics was first coined in 2012, it has widely been used for m
 
 In this repository, we would like to show that radiomic features can be useful for analysis of images in other domains as well. As a example, we show that radiomic features can be used for tree bark identification. 
 
-For this project, we use the publicly available dataset of tree barks images [here](https://www.vicos.si/resources/trunk12/).
+For this project, we use the publicly available dataset of tree bark images [here](https://www.vicos.si/resources/trunk12/). All the code is provided in the notebook file: tree_bark_analysis.ipynb
 
-
-
-
+We have compared our results with those of a published paper on this dataset which uses statistical radial binary patterns for classification of tree barks. 
 # Reference 
 
 Boudra, Safia, Itheri Yahiaoui, and Ali Behloul. "Bark identification using improved statistical radial binary patterns." 2018 International conference on content-based multimedia indexing (CBMI). IEEE, 2018.

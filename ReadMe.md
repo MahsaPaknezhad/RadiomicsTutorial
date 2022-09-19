@@ -5,7 +5,7 @@ In this repository, we would like to show that radiomic features can be useful f
 
 For this project, we use the publicly available dataset of tree bark images [here](https://www.vicos.si/resources/trunk12/). All the code is provided in the notebook file: *tree_bark_analysis.ipynb*
 
-We have compared our results with those of a published paper [1] on this dataset which uses a different texture descriptor for classification of tree barks. 
+We have compared our results with those of a published paper [Boudra et al, 2018] on this dataset which uses a different texture descriptor for classification of tree barks. 
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -13,5 +13,13 @@ We have compared our results with those of a published paper [1] on this dataset
 | Content Cell  | Content Cell  |
 
 # Reference 
-
-[1] Boudra, Safia, Itheri Yahiaoui, and Ali Behloul. "Bark identification using improved statistical radial binary patterns." 2018 International conference on content-based multimedia indexing (CBMI). IEEE, 2018.
+```
+@inproceedings{boudra2018bark,
+  title={Bark identification using improved statistical radial binary patterns},
+  author={Boudra, Safia and Yahiaoui, Itheri and Behloul, Ali},
+  booktitle={2018 International conference on content-based multimedia indexing (CBMI)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
+```

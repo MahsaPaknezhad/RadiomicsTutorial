@@ -5,7 +5,8 @@ In this repository, we aim to show that radiomic features can be useful for anal
 
 ```tree_bark_analysis.ipynb```
 
-Radiomic features were extracted from bark images and normalized to the range [0,1]. Below, we have shown the precision-recall curve for different classification models applied on the acquired radiomic features after normalization. We have compared our results with those of a published paper [Boudra et al, 2018] on this dataset which uses a different texture descriptor for classification of tree barks.
+## Evaluation results
+Radiomic features were extracted from bark images and normalized to the range [0,1]. Below, we have shown the precision-recall curve for different classification models applied on the acquired radiomic features after normalization. We have compared our results with those of the paper [Boudra et al, 2018] for this dataset. Boudra et al. propose a novel texture descriptor and use this sescriptor to guide classification of tree bark images.
 
 XGBoost  | SVM | Random Forest
 :-------------:|:-------------:|:-------------:
@@ -13,7 +14,18 @@ XGBoost  | SVM | Random Forest
 
 Linear Regression | SGD  | Boudra et al. 2018
 :-------------:|:-------------:|:-------------:
-<img src="plots/prec_recall_lr_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_sgd_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_boudra.png" width="160"> 
+<img src="plots/prec_recall_lr_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_sgd_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_boudra.png" width="160">
+
+## Other evaluation metric
+
+In the following table, we compare the performance of each classification model using multiple metrics: 
+
+Classifier | XGBoost |SVM | Random Forest | LinearRegression | SGD | Boudra et al.
+Precision | 0.656 | 0.699 | 0.579|0.686|0.485| -
+Recall | 0.656 | 0.699|0.579|0.686|0.485| -
+Accuracy | 0.656 | 0.699|0.579|0.686|0.485| 0.677
+AUC | 0.933 | 0.952|0.905|0.945| - |
+F1 | 0.656 | 0.699|0.579|0.686|0.485| -
 
 # Reference 
 ```

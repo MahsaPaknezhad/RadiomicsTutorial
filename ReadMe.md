@@ -12,7 +12,7 @@ XGBoost  | SVM | Random Forest
 :-------------:|:-------------:|:-------------:
 <img src="plots/prec_recall_xgboost_crop_s_3000_new_s_256.png" width="160">  | <img src="plots/prec_recall_svm_crop_s_3000_new_s_256.png" width="160">  | <img src="plots/prec_recall_rf_crop_s_3000_new_s_256.png" width="160">
 
-Linear Regression | SGD  | Boudra et al. 2018
+Logistic Regression | SGD  | Boudra et al. 2018
 :-------------:|:-------------:|:-------------:
 <img src="plots/prec_recall_lr_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_sgd_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_boudra.png" width="160">
 

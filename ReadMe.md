@@ -24,11 +24,14 @@ In the following table, we compare the performance of each classification model 
 
 Classifier | XGBoost |SVM | Random Forest | Linear Regression | SGD | Boudra et al. (2018)
 :-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:
-Precision | 0.649 | 0.693 | 0.580|0.695|0.483| -
-Recall | 0.644 | 0.692|0.583|0.683|0.460| -
-Accuracy | 0.656 | 0.699|0.595|0.686|0.463| 0.677
-AUC | 0.933 | 0.952|0.905|0.945| - | -
-F1 | 0.625 | 0.674|0.558|0.670|0.412| -
+Precision | 0.660	|0.703	|0.603	|0.680	|0.513| -
+Recall | 0.656	|0.699	|0.603	|0.679	|0.501| -
+Accuracy | 0.656	|0.699	|0.603	|0.679	|0.501| 0.677
+AUC | 0.935	|0.953	|0.914	|0.950| - | -
+F1 | 0.638	|0.682	|0.580	|0.663	|0.445| -
+
+All measurements are done using *weighted averaging*. 
+
 
 # Reference 
 ```

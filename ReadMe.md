@@ -21,6 +21,7 @@ Linear Regression | SGD  | Boudra et al. 2018
 In the following table, we compare the performance of each classification model using multiple metrics: 
 
 Classifier | XGBoost |SVM | Random Forest | LinearRegression | SGD | Boudra et al.
+:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:
 Precision | 0.656 | 0.699 | 0.579|0.686|0.485| -
 Recall | 0.656 | 0.699|0.579|0.686|0.485| -
 Accuracy | 0.656 | 0.699|0.579|0.686|0.485| 0.677

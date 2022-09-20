@@ -5,7 +5,7 @@ In this repository, we aim to show that radiomic features can be useful for anal
 
 ```tree_bark_analysis.ipynb```
 
-We have compared our results with those of a published paper [Boudra et al, 2018] on this dataset which uses a different texture descriptor for classification of tree barks. 
+Radiomic features were extracted from bark images and normalized to the range [0,1]. Below, we have shown the precision-recall curve for different classification models applied on the acquired radiomic features after normalization. We have compared our results with those of a published paper [Boudra et al, 2018] on this dataset which uses a different texture descriptor for classification of tree barks.
 
 XGBoost  | SVM | Random Forest
 :-------------:|:-------------:|:-------------:
@@ -13,7 +13,7 @@ XGBoost  | SVM | Random Forest
 
 Linear Regression | SGD  | Boudra et al. 2018
 :-------------:|:-------------:|:-------------:
-<img src="plots/prec_recall_lr_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_boudra.png" width="160"> 
+<img src="plots/prec_recall_lr_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_sgd_crop_s_3000_new_s_256.png" width="160"> | <img src="plots/prec_recall_boudra.png" width="160"> 
 
 # Reference 
 ```
